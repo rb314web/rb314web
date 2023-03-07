@@ -3,7 +3,7 @@
 I am a beginner programmer, here are the projects that I can boast of.
 
 FindWord (TypeScript)<br/>
-Repo - https://github.com/rb314web/Find-Word-TypeScript
+Repo - https://github.com/rb314web/Find-Word-TypeScript<br />
 Live - https://rb314web.github.io/Find-Word-TypeScript
 
 SpaceScheduler<br />
