@@ -2,6 +2,10 @@
 
 I am a beginner programmer, here are the projects that I can boast of.
 
+FindWord (TypeScript)<br/>
+Repo - https://github.com/rb314web/Find-Word-TypeScript
+Live - https://rb314web.github.io/Find-Word-TypeScript
+
 SpaceScheduler<br />
 Repo - https://github.com/rb314web/SpaceScheduler<br />
 Live - https://rb314web.github.io/SpaceScheduler/
