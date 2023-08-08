@@ -2,6 +2,10 @@
 
 I am a beginner programmer, here are the projects that I can boast of.
 
+CakeShop <br />
+Repo - https://github.com/rb314web/CakeShop
+Live - https://rb314web.github.io/CakeShop/
+
 FindWord (TypeScript)<br/>
 Repo - https://github.com/rb314web/Find-Word-TypeScript<br />
 Live - https://rb314web.github.io/Find-Word-TypeScript
