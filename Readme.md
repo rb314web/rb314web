@@ -3,7 +3,7 @@
 I am a beginner programmer, here are the projects that I can boast of.
 
 CakeShop <br />
-Repo - https://github.com/rb314web/CakeShop
+Repo - https://github.com/rb314web/CakeShop<br />
 Live - https://rb314web.github.io/CakeShop/
 
 FindWord (TypeScript)<br/>
